@@ -1,0 +1,19 @@
+# FastAPI
+aiofiles
+fastapi
+sqlalchemy
+jinja2
+
+#
+uvicorn
+
+#
+markdown
+
+# Barcode
+pyqrcode
+pypng
+
+alembic
+
+autopep8

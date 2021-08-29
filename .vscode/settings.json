@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/__pycache__": true,
+        "**/.vscode": true,
+        "Dockerfile": false,
+        "docker-compose.yml": false,
+        "Makefile": true,
+        ".env": true,
+        "**/.gitignore": true
+    },
+    "explorerExclude.backup": null,
+    "workspace.isHidden": false
+}
